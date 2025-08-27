@@ -4,6 +4,8 @@ Transforms your library card number to Code 39 barcode and remembers your PIN co
 
 ![alt text](tritonia-digital-library-card-for-ios.png)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16962139.svg)](https://doi.org/10.5281/zenodo.16962139)
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
