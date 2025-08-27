@@ -1,0 +1,15 @@
+{
+  "originHash" : "089bbfa735c6f24893651c79594f6cb8ff7c0b6123b9dba466c70a826e83181a",
+  "pins" : [
+    {
+      "identity" : "swiftui-code39",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jiahan-wu/swiftui-code39.git",
+      "state" : {
+        "revision" : "b91feac56059944e5e857c8576bc7708b2cf5b0f",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}

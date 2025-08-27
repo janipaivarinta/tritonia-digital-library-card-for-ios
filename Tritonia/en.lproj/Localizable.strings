@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Tritonia
+
+  Created by Jani Päivärinta on 24.3.2025.
+  
+*/
+
+"login" = "Add Card";
+"username" = "Library card number";
+"password" = "PIN code";
+"loginbutton" = "Add";
+"loginwasunsuccessful" = "Adding was unsuccesful";
+"apply" = "Apply for a library card";
+"showpincode" = "Show PIN code";
+"hidepincode" = "Hide PIN code";
+"logout" = "Remove Card";

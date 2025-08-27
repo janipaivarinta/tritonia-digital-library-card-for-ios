@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Tritonia
+
+  Created by Jani Päivärinta on 24.3.2025.
+  
+*/
+
+"login" = "Lägg till kort";
+"username" = "Bibliotekskortets nummer";
+"password" = "Pinkod";
+"loginbutton" = "Lägg till";
+"loginwasunsuccessful" = "Lägga till misslyckades";
+"apply" = "Beställ bibliotekskort";
+"showpincode" = "Visa pinkod";
+"hidepincode" = "Dölj pinkod";
+"logout" = "Ta bort kortet";

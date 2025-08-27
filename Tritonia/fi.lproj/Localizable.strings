@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Tritonia
+
+  Created by Jani Päivärinta on 24.3.2025.
+  
+*/
+
+"login" = "Lisää kortti";
+"username" = "Kirjastokortin numero";
+"password" = "PIN koodi";
+"loginbutton" = "Lisää";
+"loginwasunsuccessful" = "Lisääminen epäonnistui";
+"apply" = "Tilaa kirjastokortti";
+"showpincode" = "Näytä PIN koodi";
+"hidepincode" = "Piilota PIN koodi";
+"logout" = "Poista kortti";
